@@ -1,0 +1,189 @@
+// Styles for => /components/shared/Header.vue styles
+
+/**
+* Mobile + Tablet
+*/
+.header {
+  display: flex;
+  flex-direction: column;
+  height: 10%;
+  padding: 1rem;
+  background-color: $bg-base-header;
+  position: fixed;
+  width: 100%;
+  z-index: 111;
+  &__navigation {
+    text-transform: uppercase;
+    display: flex;
+    order: 3;
+    position: absolute;
+    z-index: 9999;
+    a {
+      padding-right: 1rem;
+    }
+    ul {
+      display: flex;
+      list-style: none;
+      padding: 1rem 0;
+      margin: 0 auto;
+      li {
+        margin-right: 3rem;
+        font-size: 14px;
+        line-height: 30px;
+        &:last-child {
+          margin-right: 0;
+        }
+      }
+    }
+  }
+  &__links {
+    position: absolute;
+    top: 100%;
+    left: 100%;
+    display: none;
+  }
+  // Menu icon
+  &__burger {
+    display: inline-block;
+    cursor: pointer;
+    z-index: 9999;
+  }
+
+  .bar1,
+  .bar2,
+  .bar3 {
+    width: 25px;
+    height: 2px;
+    background-color: $color-burguer-icon;
+    margin: 6px 0;
+    transition: 0.4s;
+  }
+
+  .change .bar1 {
+    transform: translate(0, 11px) rotate(-45deg);
+  }
+
+  .change .bar2 {
+    opacity: 0;
+  }
+
+  .change .bar3 {
+    transform: translate(0, -6px) rotate(45deg);
+  }
+  // Logo container
+  &__logo {
+    display: flex;
+    order: 1;
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+  }
+  // Cart
+  &__shoppingCart {
+    display: flex;
+    order: 2;
+    justify-content: end;
+    position: absolute;
+    right: 5%;
+    &--container {
+      position: relative;
+      width: 100%;
+    }
+    &--circle {
+      width: 18px;
+      height: 18px;
+      background-color: $bg-base-add-cart-btn;
+      border-radius: 50%;
+      position: absolute;
+      top: 45%;
+      left: 45%;
+      color: $base-text-white;
+      padding: 0;
+      font-size: 12px;
+      text-align: center;
+    }
+  }
+  &__breadcrumb {
+    display: none;
+    order: 4;
+    h3 {
+      margin: 2rem 0 0 0;
+      font-size: 24px;
+      font-family: 'Poppins', serif;
+      color: #000;
+      line-height: 0.743;
+    }
+    p {
+      text-transform: uppercase;
+      font-size: 14px;
+      font-family: 'Poppins', serif;
+      color: $color-paragraph;
+      line-height: 1.857;
+      span {
+        color: $base-text;
+      }
+    }
+  }
+}
+
+/**
+* Desktop
+*/
+@media only screen and (min-width: $breakpoint-min-width) {
+  .header {
+    flex-direction: row;
+    justify-content: space-between;
+    height: 550px;
+    position: relative;
+    padding: 2rem 4.3rem;
+    z-index: inherit;
+    // Navigation
+    &__navigation {
+      display: flex;
+      order: 1;
+      position: relative;
+      ul {
+        padding: 0 3rem;
+      }
+    }
+    &__links {
+      position: absolute;
+      top: inherit;
+      left: 100%;
+      display: inline-flex;
+    }
+    &__logo {
+      display: inline-block;
+      order: 2;
+      img {
+        display: block;
+        margin: 0 auto;
+      }
+    }
+    // Cart
+    &__shoppingCart {
+      display: flex;
+      order: 3;
+      position: relative;
+      right: 0.5%;
+      &--circle {
+        top: 3%;
+      }
+    }
+    &__breadcrumb {
+      position: absolute;
+      left: 19%;
+      top: 38%;
+      display: block;
+      h3 {
+        font-family: 'Poppins', serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 26px;
+        color: $base-text;
+      }
+    }
+  }
+}

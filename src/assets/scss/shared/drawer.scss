@@ -1,0 +1,49 @@
+// Styles for => /components/shared/Drawer.vue styles
+
+/**
+* Mobile + Tablet + Desktop
+*/
+.drawer {
+  &.is-visible {
+    visibility: visible;
+  }
+  &.is-open {
+    .drawer__overlay {
+      opacity: 0.5;
+    }
+    .drawer__content {
+      transform: translateX(0);
+    }
+  }
+  &__overlay {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 200;
+    opacity: 0;
+    transition-property: opacity;
+    background-color: $base-text;
+    user-select: none;
+    position: relative;
+    &.fixed {
+      position: fixed;
+    }
+  }
+  &__content {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    width: 50%;
+    z-index: 9999;
+    overflow: auto;
+    transition-property: transform;
+    display: flex;
+    flex-direction: column;
+    transform: translateX(100%);
+    box-shadow: 0 2px 6px $bg-base-overlay;
+  }
+}

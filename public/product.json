@@ -1,0 +1,1804 @@
+{
+  "msg": "",
+  "data": [
+    {
+      "catalogEntryView": [
+        {
+          "hasSingleSKU": false,
+          "catalogEntryTypeCode": "VariantBean",
+          "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+          "isPrivateSales": false,
+          "canonicalUrl": "tr/en/shoes/sandals/products.Satin_platform_sandals.5XP893_ZIZ_F0002_F_135.html",
+          "name": "Satin platform sandals",
+          "longDescription": "These sandals characterized by a simple, feminine design and large bow with logo evoke retro moods. The ankle strap and thick heel complete the style with refined elegance.",
+          "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+          "storeID": "11151",
+          "attachments": [
+            {
+              "attachmentAssetPath": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "usage": "ANGLEIMAGES_FULLIMAGE_MiuMiuHub",
+              "identifier": "AF5XP893_ZIZ_F0002_F_135-1",
+              "mimeType": ""
+            },
+            {
+              "attachmentAssetPath": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLS.png",
+              "usage": "ANGLEIMAGES_FULLIMAGE_MiuMiuHub",
+              "identifier": "AF5XP893_ZIZ_F0002_F_135-2",
+              "mimeType": ""
+            },
+            {
+              "attachmentAssetPath": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLQ.png",
+              "usage": "ANGLEIMAGES_FULLIMAGE_MiuMiuHub",
+              "identifier": "AF5XP893_ZIZ_F0002_F_135-3",
+              "mimeType": ""
+            },
+            {
+              "attachmentAssetPath": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLT.png",
+              "usage": "ANGLEIMAGES_FULLIMAGE_MiuMiuHub",
+              "identifier": "AF5XP893_ZIZ_F0002_F_135-4",
+              "mimeType": ""
+            },
+            {
+              "attachmentAssetPath": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_MDL.png",
+              "usage": "ANGLEIMAGES_FULLIMAGE_MiuMiuHub",
+              "identifier": "AF5XP893_ZIZ_F0002_F_135-5",
+              "mimeType": ""
+            }
+          ],
+          "partNumber": "5XP893_ZIZ_F0002_F_135",
+          "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+          "otherColors": "2",
+          "onSale": false,
+          "price_TRY_4000000000000059002": "18600.0",
+          "uniqueID": "3074457345619807858",
+          "onSaleEnabled": true,
+          "sKUs": [
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809164",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": false,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "97.00000",
+                      "hexCode": "",
+                      "value": "34,5",
+                      "uniqueID": "7741124012290374448",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG34,5"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_34,5_F_135",
+              "attachments": []
+            },
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809165",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": false,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "96.00000",
+                      "hexCode": "",
+                      "value": "34",
+                      "uniqueID": "7741124012290374541",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG34"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_34_F_135",
+              "attachments": []
+            },
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809166",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": false,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "100.00000",
+                      "hexCode": "",
+                      "value": "35,5",
+                      "uniqueID": "7741124012290374549",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG35,5"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_35,5_F_135",
+              "attachments": []
+            },
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809167",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": false,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "99.00000",
+                      "hexCode": "",
+                      "value": "35",
+                      "uniqueID": "7741124012290374485",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG35"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_35_F_135",
+              "attachments": []
+            },
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809168",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": false,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "103.00000",
+                      "hexCode": "",
+                      "value": "36,5",
+                      "uniqueID": "7741124012290374539",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG36,5"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_36,5_F_135",
+              "attachments": []
+            },
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809169",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": false,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "102.00000",
+                      "hexCode": "",
+                      "value": "36",
+                      "uniqueID": "7741124012290374463",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG36"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_36_F_135",
+              "attachments": []
+            },
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809170",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": false,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "106.00000",
+                      "hexCode": "",
+                      "value": "37,5",
+                      "uniqueID": "7741124012290374471",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG37,5"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_37,5_F_135",
+              "attachments": []
+            },
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809171",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": false,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "105.00000",
+                      "hexCode": "",
+                      "value": "37",
+                      "uniqueID": "7741124012290374551",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG37"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_37_F_135",
+              "attachments": []
+            },
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809172",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": false,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "109.00000",
+                      "hexCode": "",
+                      "value": "38,5",
+                      "uniqueID": "7741124012290374530",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG38,5"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_38,5_F_135",
+              "attachments": []
+            },
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809173",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": false,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "108.00000",
+                      "hexCode": "",
+                      "value": "38",
+                      "uniqueID": "7741124012290374491",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG38"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_38_F_135",
+              "attachments": []
+            },
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809174",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": true,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "112.00000",
+                      "hexCode": "",
+                      "value": "39,5",
+                      "uniqueID": "7741124012290374560",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG39,5"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_39,5_F_135",
+              "attachments": []
+            },
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809175",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": false,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "111.00000",
+                      "hexCode": "",
+                      "value": "39",
+                      "uniqueID": "7741124012290374453",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG39"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_39_F_135",
+              "attachments": []
+            },
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809176",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": true,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "114.00000",
+                      "hexCode": "",
+                      "value": "40,5",
+                      "uniqueID": "7741124012290374468",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG40,5"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_40,5_F_135",
+              "attachments": []
+            },
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809177",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": true,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "113.00000",
+                      "hexCode": "",
+                      "value": "40",
+                      "uniqueID": "7741124012290374512",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG40"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_40_F_135",
+              "attachments": []
+            },
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809178",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": false,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "117.00000",
+                      "hexCode": "",
+                      "value": "41,5",
+                      "uniqueID": "7741124012290374542",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG41,5"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_41,5_F_135",
+              "attachments": []
+            },
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809179",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": false,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "116.00000",
+                      "hexCode": "",
+                      "value": "41",
+                      "uniqueID": "7741124012290374501",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG41"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_41_F_135",
+              "attachments": []
+            },
+            {
+              "hasSingleSKU": false,
+              "onSale": false,
+              "catalogEntryTypeCode": "ItemBean",
+              "price_TRY_4000000000000059002": "18600.0",
+              "uniqueID": "3074457345619809180",
+              "lifeCycle": "",
+              "skuDummy": "0",
+              "fullImage": "https://assets.miumiu.com/content/images/products/details/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "englishName": "Satin platform sandals",
+              "price": [
+                {
+                  "description": "L",
+                  "value": "18600.00",
+                  "usage": "Display",
+                  "currency": "TRY",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                },
+                {
+                  "percentage": "0.0",
+                  "description": "O",
+                  "value": "18600.00",
+                  "usage": "Offer",
+                  "currency": "TRY",
+                  "formattedPercentage": "0.00 %",
+                  "formattedPrice": "18600,00",
+                  "formattedPriceWithoutCurrency": "18600,00"
+                }
+              ],
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "isPrivateSales": false,
+              "onsale_hasInventory": false,
+              "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+              "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+              "name": "Satin platform sandals",
+              "buyable": "true",
+              "thumbnail_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "attributes": [
+                {
+                  "storeDisplay": false,
+                  "values": [
+                    {
+                      "sequence": "118.00000",
+                      "hexCode": "",
+                      "value": "42",
+                      "uniqueID": "7741124012290374465",
+                      "unitID": "",
+                      "unitOfMeasure": "",
+                      "identifier": "SG42"
+                    }
+                  ],
+                  "sequence": ".00000",
+                  "name": "Size",
+                  "uniqueID": "7741124012283361335",
+                  "usage": "Descriptive",
+                  "comparable": false,
+                  "displayable": true,
+                  "variant": false,
+                  "identifier": "SizeGroup",
+                  "facetable": true,
+                  "searchable": true
+                }
+              ],
+              "storeID": "11151",
+              "preOrder": false,
+              "fullImage_ovr": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "partNumber": "5XP893_ZIZ_F0002_42_F_135",
+              "attachments": []
+            }
+          ],
+          "lifeCycle": "",
+          "englishName": "Satin platform sandals",
+          "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+          "parentCatalogEntryID": "3074457345619807250",
+          "shortDescription": "Upper with bow and metal lettering logo\nFabric logo label\nLeather and rubber sole\n135 mm satin-covered heel\n40 mm satin-covered platform",
+          "onsale_hasInventory": true,
+          "mfPartNumber_ntk": "5XP893_ZIZ_F0002_F_135",
+          "buyable": true,
+          "attributes": [
+            {
+              "storeDisplay": false,
+              "uniqueID": "7741124012283334338",
+              "comparable": false,
+              "displayable": true,
+              "variant": true,
+              "facetable": false,
+              "values": [
+                {
+                  "sequence": "243.00000",
+                  "hexCode": "#000000",
+                  "value": "Black",
+                  "uniqueID": "7741124012283691771",
+                  "unitID": "",
+                  "unitOfMeasure": "",
+                  "identifier": "F0002"
+                }
+              ],
+              "sequence": ".00000",
+              "associatedKeyword": "-",
+              "name": "Color",
+              "usage": "Defining",
+              "identifier": "ColorCode",
+              "searchable": true
+            },
+            {
+              "storeDisplay": false,
+              "uniqueID": "7741124012283388335",
+              "comparable": false,
+              "displayable": false,
+              "variant": true,
+              "facetable": false,
+              "values": [
+                {
+                  "sequence": ".00000",
+                  "hexCode": "0",
+                  "value": "2P.22",
+                  "uniqueID": "7741124012294416474",
+                  "unitID": "",
+                  "unitOfMeasure": "",
+                  "identifier": "5XP893_ZIZ_F0002_F_135_ORDSEASON"
+                }
+              ],
+              "sequence": ".00000",
+              "associatedKeyword": "-",
+              "name": "ORDSEASON",
+              "usage": "Descriptive",
+              "identifier": "ORDSEASON",
+              "searchable": false
+            },
+            {
+              "storeDisplay": false,
+              "uniqueID": "7741124012283396835",
+              "comparable": false,
+              "displayable": true,
+              "variant": false,
+              "facetable": true,
+              "values": [
+                {
+                  "sequence": ".00000",
+                  "hexCode": "0",
+                  "value": "Donna",
+                  "uniqueID": "7741124012294584944",
+                  "unitID": "",
+                  "unitOfMeasure": "",
+                  "identifier": "D"
+                }
+              ],
+              "sequence": ".00000",
+              "associatedKeyword": "-",
+              "name": "Gender",
+              "usage": "Descriptive",
+              "identifier": "Gender",
+              "searchable": true
+            },
+            {
+              "storeDisplay": false,
+              "uniqueID": "7741124012283396836",
+              "comparable": false,
+              "displayable": true,
+              "variant": false,
+              "facetable": true,
+              "values": [
+                {
+                  "sequence": ".00000",
+                  "hexCode": "0",
+                  "value": "MiuMiu",
+                  "uniqueID": "7741124012294585037",
+                  "unitID": "",
+                  "unitOfMeasure": "",
+                  "identifier": "MM"
+                }
+              ],
+              "sequence": ".00000",
+              "associatedKeyword": "-",
+              "name": "Brand",
+              "usage": "Descriptive",
+              "identifier": "Brand",
+              "searchable": true
+            },
+            {
+              "storeDisplay": false,
+              "uniqueID": "7741124012283334337",
+              "comparable": false,
+              "displayable": true,
+              "variant": true,
+              "facetable": true,
+              "values": [
+                {
+                  "sequence": ".00000",
+                  "hexCode": "",
+                  "value": "Black",
+                  "uniqueID": "7741124012294607941",
+                  "unitID": "",
+                  "unitOfMeasure": "",
+                  "identifier": "NERO"
+                }
+              ],
+              "sequence": ".00000",
+              "associatedKeyword": "-",
+              "name": "Color",
+              "usage": "Descriptive",
+              "identifier": "ColorGroup",
+              "searchable": true
+            },
+            {
+              "storeDisplay": false,
+              "uniqueID": "7741124012283364835",
+              "comparable": false,
+              "displayable": true,
+              "variant": false,
+              "facetable": false,
+              "values": [
+                {
+                  "sequence": ".00000",
+                  "hexCode": "0",
+                  "value": "SANDALI",
+                  "uniqueID": "7741124012293754447",
+                  "unitID": "",
+                  "unitOfMeasure": "",
+                  "identifier": "DV"
+                }
+              ],
+              "sequence": ".00000",
+              "associatedKeyword": "-",
+              "name": "CLM",
+              "usage": "Descriptive",
+              "identifier": "CLM",
+              "searchable": false
+            },
+            {
+              "storeDisplay": false,
+              "uniqueID": "7741124012283395335",
+              "comparable": false,
+              "displayable": true,
+              "variant": false,
+              "facetable": false,
+              "values": [
+                {
+                  "sequence": ".00000",
+                  "hexCode": "0",
+                  "value": "FIBBIA",
+                  "uniqueID": "7741124012294529094",
+                  "unitID": "",
+                  "unitOfMeasure": "",
+                  "identifier": "DV04"
+                }
+              ],
+              "sequence": ".00000",
+              "associatedKeyword": "-",
+              "name": "SCMER",
+              "usage": "Descriptive",
+              "identifier": "SCMER",
+              "searchable": false
+            },
+            {
+              "storeDisplay": false,
+              "uniqueID": "7741124012283334335",
+              "comparable": false,
+              "displayable": true,
+              "variant": false,
+              "facetable": false,
+              "values": [
+                {
+                  "sequence": ".00000",
+                  "hexCode": "0",
+                  "value": "SATIN 2",
+                  "uniqueID": "7741124012283690259",
+                  "unitID": "",
+                  "unitOfMeasure": "",
+                  "identifier": "ZIZ"
+                }
+              ],
+              "sequence": ".00000",
+              "associatedKeyword": "-",
+              "name": "Material",
+              "usage": "Descriptive",
+              "identifier": "MaterialCode",
+              "searchable": false
+            },
+            {
+              "storeDisplay": false,
+              "uniqueID": "7741124012283368835",
+              "comparable": false,
+              "displayable": true,
+              "variant": true,
+              "facetable": false,
+              "values": [
+                {
+                  "sequence": ".00000",
+                  "hexCode": "0",
+                  "value": "32% SILK 68% VISCOSE",
+                  "uniqueID": "7741124012294416807",
+                  "unitID": "",
+                  "unitOfMeasure": "",
+                  "identifier": "5XP893_ZIZ_F0002_F_135_DTF"
+                }
+              ],
+              "sequence": ".00000",
+              "associatedKeyword": "-",
+              "name": "DTF",
+              "usage": "Descriptive",
+              "identifier": "DTF",
+              "searchable": false
+            },
+            {
+              "storeDisplay": false,
+              "uniqueID": "7741124012283334336",
+              "comparable": false,
+              "displayable": true,
+              "variant": false,
+              "facetable": true,
+              "values": [
+                {
+                  "sequence": ".00000",
+                  "hexCode": "0",
+                  "value": "Fabric",
+                  "uniqueID": "7741124012283691270",
+                  "unitID": "",
+                  "unitOfMeasure": "",
+                  "identifier": "10"
+                }
+              ],
+              "sequence": ".00000",
+              "associatedKeyword": "-",
+              "name": "Material",
+              "usage": "Descriptive",
+              "identifier": "MaterialGroup",
+              "searchable": true
+            }
+          ],
+          "preOrder": false,
+          "sizeCodes": [
+            {
+              "sequence": "1.00000",
+              "hexCode": "",
+              "value": "34",
+              "uniqueID": "7741124012283693657",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0534",
+              "partNumberSize": "5XP893_ZIZ_F0002_34_F_135",
+              "skuUniqueId": "3074457345619809165",
+              "buyable": "true",
+              "onSale": false
+            },
+            {
+              "sequence": "2.00000",
+              "hexCode": "",
+              "value": "34,5",
+              "uniqueID": "7741124012283693509",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0534,5",
+              "partNumberSize": "5XP893_ZIZ_F0002_34,5_F_135",
+              "skuUniqueId": "3074457345619809164",
+              "buyable": "true",
+              "onSale": false
+            },
+            {
+              "sequence": "3.00000",
+              "hexCode": "",
+              "value": "35",
+              "uniqueID": "7741124012283693554",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0535",
+              "partNumberSize": "5XP893_ZIZ_F0002_35_F_135",
+              "skuUniqueId": "3074457345619809167",
+              "buyable": "true",
+              "onSale": false
+            },
+            {
+              "sequence": "4.00000",
+              "hexCode": "",
+              "value": "35,5",
+              "uniqueID": "7741124012283693669",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0535,5",
+              "partNumberSize": "5XP893_ZIZ_F0002_35,5_F_135",
+              "skuUniqueId": "3074457345619809166",
+              "buyable": "true",
+              "onSale": false
+            },
+            {
+              "sequence": "5.00000",
+              "hexCode": "",
+              "value": "36",
+              "uniqueID": "7741124012283693689",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0536",
+              "partNumberSize": "5XP893_ZIZ_F0002_36_F_135",
+              "skuUniqueId": "3074457345619809169",
+              "buyable": "true",
+              "onSale": false
+            },
+            {
+              "sequence": "6.00000",
+              "hexCode": "",
+              "value": "36,5",
+              "uniqueID": "7741124012283693652",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0536,5",
+              "partNumberSize": "5XP893_ZIZ_F0002_36,5_F_135",
+              "skuUniqueId": "3074457345619809168",
+              "buyable": "true",
+              "onSale": false
+            },
+            {
+              "sequence": "7.00000",
+              "hexCode": "",
+              "value": "37",
+              "uniqueID": "7741124012283693678",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0537",
+              "partNumberSize": "5XP893_ZIZ_F0002_37_F_135",
+              "skuUniqueId": "3074457345619809171",
+              "buyable": "true",
+              "onSale": false
+            },
+            {
+              "sequence": "8.00000",
+              "hexCode": "",
+              "value": "37,5",
+              "uniqueID": "7741124012283693535",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0537,5",
+              "partNumberSize": "5XP893_ZIZ_F0002_37,5_F_135",
+              "skuUniqueId": "3074457345619809170",
+              "buyable": "true",
+              "onSale": false
+            },
+            {
+              "sequence": "9.00000",
+              "hexCode": "",
+              "value": "38",
+              "uniqueID": "7741124012283693564",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0538",
+              "partNumberSize": "5XP893_ZIZ_F0002_38_F_135",
+              "skuUniqueId": "3074457345619809173",
+              "buyable": "true",
+              "onSale": false
+            },
+            {
+              "sequence": "10.00000",
+              "hexCode": "",
+              "value": "38,5",
+              "uniqueID": "7741124012283693631",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0538,5",
+              "partNumberSize": "5XP893_ZIZ_F0002_38,5_F_135",
+              "skuUniqueId": "3074457345619809172",
+              "buyable": "true",
+              "onSale": false
+            },
+            {
+              "sequence": "11.00000",
+              "hexCode": "",
+              "value": "39",
+              "uniqueID": "7741124012283693538",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0539",
+              "partNumberSize": "5XP893_ZIZ_F0002_39_F_135",
+              "skuUniqueId": "3074457345619809175",
+              "buyable": "true",
+              "onSale": false
+            },
+            {
+              "sequence": "12.00000",
+              "hexCode": "",
+              "value": "39,5",
+              "uniqueID": "7741124012283693701",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0539,5",
+              "partNumberSize": "5XP893_ZIZ_F0002_39,5_F_135",
+              "skuUniqueId": "3074457345619809174",
+              "buyable": "true",
+              "onSale": false
+            },
+            {
+              "sequence": "13.00000",
+              "hexCode": "",
+              "value": "40",
+              "uniqueID": "7741124012283693735",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0540",
+              "partNumberSize": "5XP893_ZIZ_F0002_40_F_135",
+              "skuUniqueId": "3074457345619809177",
+              "buyable": "true",
+              "onSale": false
+            },
+            {
+              "sequence": "14.00000",
+              "hexCode": "",
+              "value": "40,5",
+              "uniqueID": "7741124012283693531",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0540,5",
+              "partNumberSize": "5XP893_ZIZ_F0002_40,5_F_135",
+              "skuUniqueId": "3074457345619809176",
+              "buyable": "true",
+              "onSale": false
+            },
+            {
+              "sequence": "15.00000",
+              "hexCode": "",
+              "value": "41",
+              "uniqueID": "7741124012283693714",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0541",
+              "partNumberSize": "5XP893_ZIZ_F0002_41_F_135",
+              "skuUniqueId": "3074457345619809179",
+              "buyable": "true",
+              "onSale": false
+            },
+            {
+              "sequence": "16.00000",
+              "hexCode": "",
+              "value": "41,5",
+              "uniqueID": "7741124012283693658",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0541,5",
+              "partNumberSize": "5XP893_ZIZ_F0002_41,5_F_135",
+              "skuUniqueId": "3074457345619809178",
+              "buyable": "true",
+              "onSale": false
+            },
+            {
+              "sequence": "17.00000",
+              "hexCode": "",
+              "value": "42",
+              "uniqueID": "7741124012283693537",
+              "unitID": "",
+              "unitOfMeasure": "",
+              "identifier": "0542",
+              "partNumberSize": "5XP893_ZIZ_F0002_42_F_135",
+              "skuUniqueId": "3074457345619809180",
+              "buyable": "true",
+              "onSale": false
+            }
+          ],
+          "otherVariants": [
+            {
+              "uniqueID": "3074457345619809164",
+              "partNumber": "5XP893_ZIZ_F0002_F_135",
+              "color": "Black",
+              "fullImage": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0002/5XP893_ZIZ_F0002_F_135_SLR.png",
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0002_F_135-1.jpg",
+              "hexCode": "#000000",
+              "available": "True"
+            },
+            {
+              "uniqueID": "3074457345619809181",
+              "partNumber": "5XP893_ZIZ_F0030_F_135",
+              "color": "Violet",
+              "fullImage": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0030/5XP893_ZIZ_F0030_F_135_SLR.png",
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0030_F_135-1.jpg",
+              "hexCode": "#774C7E",
+              "available": "True"
+            },
+            {
+              "uniqueID": "3074457345619809198",
+              "partNumber": "5XP893_ZIZ_F0410_F_135",
+              "color": "Geranium Pink",
+              "fullImage": "https://www.miumiu.com/content/dam/miumiu_products/5/5XP/5XP893/ZIZF0410/5XP893_ZIZ_F0410_F_135_SLR.png",
+              "thumbnail": "https://assets.miumiu.com/content/images/products/grid/5XP893_ZIZ_F0410_F_135-1.jpg",
+              "hexCode": "#d06166",
+              "available": "True"
+            }
+          ],
+          "colors": "Black",
+          "styleCode": "",
+          "composition": "",
+          "dtf": "32% SILK 68% VISCOSE",
+          "price": [
+            {
+              "description": "L",
+              "value": "18600.00",
+              "usage": "Display",
+              "currency": "TRY",
+              "formattedPrice": "18600,00",
+              "formattedPriceWithoutCurrency": "18600,00"
+            },
+            {
+              "percentage": "0.0",
+              "description": "O",
+              "value": "18600.00",
+              "usage": "Offer",
+              "currency": "TRY",
+              "formattedPercentage": "0.00 %",
+              "formattedPrice": "18600,00",
+              "formattedPriceWithoutCurrency": "18600,00"
+            }
+          ],
+          "akeneoData": {
+            "pdpUrl": "/p/Satin-platform-sandals/5XP893_ZIZ_F0002_F_135",
+            "productType": "shoes/sandals",
+            "breadcrumb": [
+              {
+                "code": "10207TR",
+                "URL": "/shoes/c/10207TR",
+                "label": "AYAKKABI"
+              },
+              {
+                "code": "10209TR",
+                "URL": "/shoes/sandals/c/10209TR",
+                "label": "SANDALET"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
