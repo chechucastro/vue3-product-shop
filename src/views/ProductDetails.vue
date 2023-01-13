@@ -186,15 +186,13 @@ let productQty = ref(0),
  **/
 const increaseDecreaseItem = (mode) => {
   const prdQty = productQty.value
-  if (mode) {
-    if (prdQty < 9) {
-      productQty.value++
-    }
-  } else {
-    if (prdQty > 0) {
-      productQty.value--
-    }
-  }
+  mode
+    ? prdQty < 9 // Could be any max number
+      ? productQty.value++
+      : false
+    : prdQty > 0
+    ? productQty.value--
+    : false
 }
 
 /**
