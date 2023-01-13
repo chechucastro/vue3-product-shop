@@ -8,7 +8,7 @@
         :wrap-around="true"
         v-model="currentSlide"
       >
-        <Slide v-for="slide in attachments" :key="slide">
+        <Slide v-for="slide in product.attachments" :key="slide">
           <div class="carousel__item">
             <img :src="slide.attachmentAssetPath" :alt="slide.identifier" />
           </div>
@@ -24,7 +24,7 @@
         v-model="currentSlide"
         ref="carousel"
       >
-        <Slide v-for="(slide, index) in attachments" :key="index">
+        <Slide v-for="(slide, index) in product.attachments" :key="index">
           <div class="carousel__item" @click="slideTo(index)">
             <img :src="slide.attachmentAssetPath" :alt="slide.identifier" />
           </div>
@@ -34,7 +34,7 @@
     <!-- Product Properties -->
     <div class="col-sm-5 product__desc">
       <h4 itemprop="name">
-        {{ productName }}
+        {{ product.productName }}
       </h4>
       <!-- product__reviews -->
       <div
@@ -72,14 +72,14 @@
       </div>
       <!-- Product description -->
       <div itemprop="description" class="product__description">
-        {{ productLongDesc }}
+        {{ product.productLongDesc }}
       </div>
       <hr />
       <div class="product__actions">
         <div class="product__actions--colors">
           <span class="product__actions--title">Color</span>
           <span
-            v-for="color in otherVariants"
+            v-for="color in product.otherVariants"
             :key="color"
             class="colorPicker"
             :class="{ selected: color.selected }"
@@ -92,7 +92,7 @@
           <!-- Size values -->
           <select name="size" id="size-select" v-model="productSize">
             <option
-              v-for="size in sizeCodes"
+              v-for="size in product.sizeCodes"
               :value="size.value"
               :key="size.value"
             >
@@ -160,24 +160,22 @@
 /**
  * Imports
  **/
-import { onMounted, ref, computed } from 'vue'
+import { computed, onMounted, ref } from 'vue'
 import InStock from '@/components/atomic/inStock.vue'
 import AddToCart from '@/components/atomic/ctaButton.vue'
 import FavoriteHearth from '@/components/atomic/favoriteHearth.vue'
 import { useCartStore } from '@/stores/cart'
+
 /**
  * Models
  **/
 
 const cart = useCartStore() // Store
-const productQty = ref(0),
+let productQty = ref(0),
   productSize = ref(null),
   currentSelectedProduct = ref(null),
-  productName = ref(null),
-  productLongDesc = ref(null),
-  attachments = ref(null),
-  sizeCodes = ref(null),
-  otherVariants = ref(null)
+  otherVariants = ref(null),
+  product = ref({})
 
 /**
  * Methods
@@ -208,17 +206,10 @@ const getCatalog = () => {
     .then((r) => r.json())
     .then(
       (json) => {
-        const root = json.data[0].catalogEntryView[0]
-        const { name, longDescription } = root
-        // Assigning values...
-        productName.value = name
-        productLongDesc.value = longDescription
-        attachments.value = root.attachments
-        sizeCodes.value = root.sizeCodes
-        otherVariants.value = root.otherVariants
+        product.value = json.data[0].catalogEntryView[0]
         // TODO: Select first variant by default.... Ask question here ?
-        root.otherVariants[0].selected = true
-        currentSelectedProduct.value = root.otherVariants[0]
+        product.value.otherVariants[0].selected = true
+        currentSelectedProduct.value = product.value.otherVariants[0]
       },
       (response) => {
         console.log('Error loading json:', response)
@@ -231,7 +222,7 @@ const getCatalog = () => {
  **/
 const setVariantColor = (color) => {
   // Set to false any previous selected color
-  otherVariants.value.map((color) => {
+  product.value.otherVariants.map((color) => {
     color.selected = false
   })
   // Select current clicked color
