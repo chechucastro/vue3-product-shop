@@ -12,15 +12,11 @@ export const useCartStore = defineStore({
   getters: {
     cartItemsSize: (state) => {
       const totalQty = []
-      let result = 0
       state.productItems.map((item) => {
         totalQty.push(item.qty)
       })
       // Sum the total quantity by product item
-      if (totalQty.length) {
-        result = totalQty.reduce((a, b) => a + b)
-      }
-      return result
+      return totalQty.length ? totalQty.reduce((a, b) => a + b) : null
     }
   },
   actions: {
