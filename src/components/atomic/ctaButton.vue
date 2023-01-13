@@ -29,6 +29,7 @@ const props = defineProps({
 
 <style lang="scss" scoped>
 button {
+  cursor: cell;
   border: none;
   text-transform: uppercase;
   font-style: normal;

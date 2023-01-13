@@ -171,10 +171,9 @@ import { useCartStore } from '@/stores/cart'
  **/
 
 const cart = useCartStore() // Store
-let productQty = ref(0),
+const productQty = ref(0),
   productSize = ref(null),
   currentSelectedProduct = ref(null),
-  otherVariants = ref(null),
   product = ref({})
 
 /**
