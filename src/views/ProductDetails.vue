@@ -161,6 +161,9 @@
  * Imports
  **/
 import { computed, onMounted, ref } from 'vue'
+import { Carousel, Navigation, Slide } from 'vue3-carousel'
+import vue3starRatings from 'vue3-star-ratings'
+import 'vue3-carousel/dist/carousel.css'
 import InStock from '@/components/atomic/inStock.vue'
 import AddToCart from '@/components/atomic/ctaButton.vue'
 import FavoriteHearth from '@/components/atomic/favoriteHearth.vue'
@@ -174,7 +177,9 @@ const cart = useCartStore() // Store
 const productQty = ref(0),
   productSize = ref(null),
   currentSelectedProduct = ref(null),
-  product = ref({})
+  product = ref({}),
+  currentSlide = ref(0),
+  rating = 3.5
 
 /**
  * Methods
@@ -194,6 +199,9 @@ const increaseDecreaseItem = (mode) => {
     : false
 }
 
+const slideTo = (val) => {
+  currentSlide.value = val
+}
 /**
  * Get catalog from a local json file
  * instead of having a call to an external api
@@ -252,30 +260,6 @@ const addToCartEnablerBtn = computed(() => {
  **/
 onMounted(() => {
   getCatalog()
-})
-</script>
-<script>
-import { defineComponent } from 'vue'
-import { Carousel, Navigation, Slide } from 'vue3-carousel'
-import vue3starRatings from 'vue3-star-ratings'
-import 'vue3-carousel/dist/carousel.css'
-
-export default defineComponent({
-  components: {
-    Carousel,
-    Slide,
-    Navigation,
-    vue3starRatings
-  },
-  data: () => ({
-    currentSlide: 0,
-    rating: 3.5
-  }),
-  methods: {
-    slideTo(val) {
-      this.currentSlide = val
-    }
-  }
 })
 </script>
 <style lang="scss">
